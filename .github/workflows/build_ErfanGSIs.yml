@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://ip3803833212.mobgslb.tbcache.com/Firmware/Flyme/16T/8.20.6.16/cn_beta/20200611202851/71fb3f4a/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=cd47c3d4110730529e9fdc2d46efac51259aca3a0cecc239&ali_redirect_ex_tmining_ts=1592963945&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
   ROM_NAME: Flyme
-  TZ: yingyingying
+  TZ: yingying
 
 jobs:
   build:
